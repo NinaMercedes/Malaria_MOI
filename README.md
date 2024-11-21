@@ -1,2 +1,2 @@
 # Malaria_MOI
-Sample list
+This repository contains sample information for Malaria-MOI paper.
