@@ -1,4 +1,4 @@
-"Data S1. Metadata for 8,262 Plasmodium falciparum samples used in the analysis",,,,,,,,,,,,,,,,,,,,,
+"Data S1. Metadata for 8,261 Plasmodium falciparum samples used in the analysis",,,,,,,,,,,,,,,,,,,,,
 wgs_id,sample,sra_run,country,site,year,region,fws,Malaria-MOI,estMOI,X5.percentage,X10.percentage,X15.percentage,X20.percentage,X30.percentage,Median.Coverage,Minimum.Coverage,Maximum.Coverage,PASS,Malaria-MOI_ multiclonal,estMOI_ multiclonal,fws_ multiclonal
 BIJAGOS114,SAMN31875010,SRR22412632,Guinea_Bissau,Bubaque,2018,West_Africa,0.985,1,1,100,98.79518072,98.19277108,95.78313253,87.34939759,84.425,7.35,1773.24,TRUE,0,0,0
 BIJAGOS125,SAMN31875009,SRR22412633,Guinea_Bissau,Orango,2018,West_Africa,0.987,1,1,99.39759036,98.19277108,93.97590361,92.1686747,82.53012048,78.035,4.81,1548.22,TRUE,0,0,0
