@@ -1,6 +1,16 @@
 # Malaria_MOI
 This repository contains sample information for Malaria-MOI paper.
 
+## Installation
+```
+conda activate MOI_tools
+# Open R
+## install FreqEstimationModel
+
+
+```
+
+
 
 ## First step- filter for each population e.g. below
 
